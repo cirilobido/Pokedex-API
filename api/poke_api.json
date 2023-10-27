@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Bulbasaur",
+    "entry_number": "001",
+    "color": "VERDE",
+    "type": [
+      "PLANTA",
+      "VENENO"
+    ],
+    "description": "Una extraña semilla fue plantada en su espalda al nacer. La planta brota y crece con este Pokémon.",
+    "image": "",
+    "height": "0.7 m",
+    "weight": "6.9 kg",
+    "weaknesses": [
+      "FUEGO",
+      "HIELO",
+      "VOLADOR",
+      "PSÍQUICO"
+    ]
+  },
+  {
+    "name": "Ivysaur",
+    "entry_number": "002",
+    "color": "VERDE",
+    "type": [
+      "PLANTA",
+      "VENENO"
+    ],
+    "description": "Cuando el bulbo en su espalda crece grande, parece perder la capacidad de pararse en sus patas traseras.",
+    "image": "",
+    "height": "1.0 m",
+    "weight": "13.0 kg",
+    "weaknesses": [
+      "FUEGO",
+      "HIELO",
+      "VOLADOR",
+      "PSÍQUICO"
+    ]
+  },
+  {
+    "name": "Venusaur",
+    "entry_number": "003",
+    "color": "VERDE",
+    "type": [
+      "PLANTA",
+      "VENENO"
+    ],
+    "description": "La planta florece cuando absorbe energía solar. Permanece en movimiento para buscar la luz del sol.",
+    "image": "",
+    "height": "2.0 m",
+    "weight": "100.0 kg",
+    "weaknesses": [
+      "FUEGO",
+      "HIELO",
+      "VOLADOR",
+      "PSÍQUICO"
+    ]
+  },
+  {
+    "name": "Charmander",
+    "entry_number": "004",
+    "color": "ROJO",
+    "type": [
+      "FUEGO"
+    ],
+    "description": "La llama en la punta de su cola hace un sonido mientras arde. Solo puedes oírlo en lugares tranquilos.",
+    "image": "",
+    "height": "0.6 m",
+    "weight": "8.5 kg",
+    "weaknesses": [
+      "AGUA",
+      "ROCA",
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Charmeleon",
+    "entry_number": "005",
+    "color": "ROJO",
+    "type": [
+      "FUEGO"
+    ],
+    "description": "Las peleas duras podrían emocionar a este Pokémon. Cuando está emocionado, lanza llamas, creando un espectáculo deslumbrante.",
+    "image": "",
+    "height": "1.1 m",
+    "weight": "19.0 kg",
+    "weaknesses": [
+      "AGUA",
+      "ROCA",
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Charizard",
+    "entry_number": "006",
+    "color": "ROJO",
+    "type": [
+      "FUEGO",
+      "VOLADOR"
+    ],
+    "description": "Escupe fuego lo suficientemente caliente como para derretir rocas. Conocido por causar incendios forestales de manera involuntaria.",
+    "image": "",
+    "height": "1.7 m",
+    "weight": "90.5 kg",
+    "weaknesses": [
+      "AGUA",
+      "ROCA",
+      "ELÉCTRICO"
+    ]
+  },
+  {
+    "name": "Squirtle",
+    "entry_number": "007",
+    "color": "AZUL",
+    "type": [
+      "AGUA"
+    ],
+    "description": "Después del nacimiento, su espalda se hincha y se endurece en una concha. Rocía espuma poderosamente desde su boca.",
+    "image": "",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "weaknesses": [
+      "PLANTA",
+      "ELÉCTRICO"
+    ]
+  },
+  {
+    "name": "Wartortle",
+    "entry_number": "008",
+    "color": "AZUL",
+    "type": [
+      "AGUA"
+    ],
+    "description": "Es reconocido como un símbolo de longevidad. Si su caparazón tiene algas, ese Wartortle es muy viejo.",
+    "image": "",
+    "height": "1.0 m",
+    "weight": "22.5 kg",
+    "weaknesses": [
+      "PLANTA",
+      "ELÉCTRICO"
+    ]
+  },
+  {
+    "name": "Blastoise",
+    "entry_number": "009",
+    "color": "AZUL",
+    "type": [
+      "AGUA"
+    ],
+    "description": "Aplasta a su enemigo bajo su cuerpo pesado para causar desmayos. En caso de apuro, se retirará dentro de su caparazón.",
+    "image": "",
+    "height": "1.6 m",
+    "weight": "85.5 kg",
+    "weaknesses": [
+      "PLANTA",
+      "ELÉCTRICO"
+    ]
+  },
+  {
+    "name": "Caterpie",
+    "entry_number": "010",
+    "color": "VERDE",
+    "type": [
+      "BICHO"
+    ],
+    "description": "Para protegerse, libera un olor horrible desde la antena de su cabeza para alejar a los enemigos.",
+    "image": "",
+    "height": "0.3 m",
+    "weight": "2.9 kg",
+    "weaknesses": [
+      "FUEGO",
+      "VOLADOR",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Metapod",
+    "entry_number": "011",
+    "color": "VERDE",
+    "type": [
+      "BICHO"
+    ],
+    "description": "La cáscara que cubre el cuerpo de este Pokémon es tan dura como una losa de hierro. Metapod no se mueve mucho.",
+    "image": "",
+    "height": "0.7 m",
+    "weight": "9.9 kg",
+    "weaknesses": [
+      "FUEGO",
+      "VOLADOR",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Butterfree",
+    "entry_number": "012",
+    "color": "BLANCO",
+    "type": [
+      "BICHO",
+      "VOLADOR"
+    ],
+    "description": "En la batalla, agita sus alas a gran velocidad para liberar polvo altamente tóxico en el aire.",
+    "image": "",
+    "height": "1.1 m",
+    "weight": "32.0 kg",
+    "weaknesses": [
+      "FUEGO",
+      "ELÉCTRICO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Weedle",
+    "entry_number": "013",
+    "color": "MARRÓN",
+    "type": [
+      "BICHO",
+      "VENENO"
+    ],
+    "description": "A menudo se encuentra en los bosques, comiendo hojas. Tiene una aguijón venenoso afilado en la cabeza.",
+    "image": "",
+    "height": "0.3 m",
+    "weight": "3.2 kg",
+    "weaknesses": [
+      "FUEGO",
+      "VOLADOR",
+      "PSÍQUICO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Kakuna",
+    "entry_number": "014",
+    "color": "AMARILLO",
+    "type": [
+      "BICHO",
+      "VENENO"
+    ],
+    "description": "Kakuna permanece virtualmente inmóvil mientras se aferra a un árbol. Sin embargo, en su interior, está extremadamente ocupado.",
+    "image": "",
+    "height": "0.6 m",
+    "weight": "10.0 kg",
+    "weaknesses": [
+      "FUEGO",
+      "VOLADOR",
+      "PSÍQUICO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Beedrill",
+    "entry_number": "015",
+    "color": "AMARILLO",
+    "type": [
+      "BICHO",
+      "VENENO"
+    ],
+    "description": "Tiene tres aguijones venenosos en sus patas delanteras y su cola. Los usa para picar a su enemigo repetidamente.",
+    "image": "",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "weaknesses": [
+      "FUEGO",
+      "VOLADOR",
+      "PSÍQUICO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Pidgey",
+    "entry_number": "016",
+    "color": "MARRÓN",
+    "type": [
+      "NORMAL",
+      "VOLADOR"
+    ],
+    "description": "Una vista común en bosques y selvas. Agita sus alas a nivel del suelo para levantar una arena cegadora.",
+    "image": "",
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "weaknesses": [
+      "ELÉCTRICO",
+      "HIELO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Pidgeotto",
+    "entry_number": "017",
+    "color": "MARRÓN",
+    "type": [
+      "NORMAL",
+      "VOLADOR"
+    ],
+    "description": "Este Pokémon está lleno de vitalidad. Vuela constantemente alrededor de su amplio territorio en busca de presas.",
+    "image": "",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
+    "weaknesses": [
+      "ELÉCTRICO",
+      "HIELO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Pidgeot",
+    "entry_number": "018",
+    "color": "MARRÓN",
+    "type": [
+      "NORMAL",
+      "VOLADOR"
+    ],
+    "description": "Cuando caza, raspa la superficie del agua a gran velocidad para atrapar presas desprevenidas como Magikarp.",
+    "image": "",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "weaknesses": [
+      "ELÉCTRICO",
+      "HIELO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Rattata",
+    "entry_number": "019",
+    "color": "MARRÓN",
+    "type": [
+      "NORMAL"
+    ],
+    "description": "Muerde cualquier cosa cuando se enoja. Cualquier cosa será sujeta a sus colmillos, no importa lo grande o fuerte que sea.",
+    "image": "",
+    "height": "0.3 m",
+    "weight": "3.5 kg",
+    "weaknesses": [
+      "LUCHA"
+    ]
+  },
+  {
+    "name": "Raticate",
+    "entry_number": "020",
+    "color": "MARRÓN",
+    "type": [
+      "NORMAL"
+    ],
+    "description": "Una vez que comienza a correr, no se detiene hasta que cae rendido. Este comportamiento es muy peligroso.",
+    "image": "",
+    "height": "0.7 m",
+    "weight": "18.5 kg",
+    "weaknesses": [
+      "LUCHA"
+    ]
+  },
+  {
+    "name": "Spearow",
+    "entry_number": "021",
+    "color": "MARRÓN",
+    "type": [
+      "NORMAL",
+      "VOLADOR"
+    ],
+    "description": "Este Pokémon está en constante movimiento, incluso en su nido. Se ha adaptado a la vida en la jungla.",
+    "image": "",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "weaknesses": [
+      "ELÉCTRICO",
+      "HIELO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Fearow",
+    "entry_number": "022",
+    "color": "MARRÓN",
+    "type": [
+      "NORMAL",
+      "VOLADOR"
+    ],
+    "description": "Con su gran pico, perfora a su presa y se la lleva para comérsela en su nido. Es muy rápido y ágil.",
+    "image": "",
+    "height": "1.2 m",
+    "weight": "38.0 kg",
+    "weaknesses": [
+      "ELÉCTRICO",
+      "HIELO",
+      "ROCA"
+    ]
+  },
+  {
+    "name": "Ekans",
+    "entry_number": "023",
+    "color": "MORADO",
+    "type": [
+      "VENENO"
+    ],
+    "description": "Se esconde en la hierba, mordiendo cualquier cosa que se le acerque. Es venenoso y peligroso.",
+    "image": "",
+    "height": "2.0 m",
+    "weight": "6.9 kg",
+    "weaknesses": [
+      "PSÍQUICO",
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Arbok",
+    "entry_number": "024",
+    "color": "MORADO",
+    "type": [
+      "VENENO"
+    ],
+    "description": "Este Pokémon se enrolla alrededor de su presa y la aprieta hasta asfixiarla. Es muy venenoso y peligroso.",
+    "image": "",
+    "height": "3.5 m",
+    "weight": "65.0 kg",
+    "weaknesses": [
+      "PSÍQUICO",
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "entry_number": "025",
+    "color": "AMARILLO",
+    "type": [
+      "ELÉCTRICO"
+    ],
+    "description": "Cuando varios Pikachu se reúnen, suelen generar chispas eléctricas. Es muy famoso por su aspecto tierno y su electricidad.",
+    "image": "",
+    "height": "0.4 m",
+    "weight": "6.0 kg",
+    "weaknesses": [
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Raichu",
+    "entry_number": "026",
+    "color": "AMARILLO",
+    "type": [
+      "ELÉCTRICO"
+    ],
+    "description": "Cuando almacena energía eléctrica en su mejillas, puede liberar una descarga eléctrica de gran potencia.",
+    "image": "",
+    "height": "0.8 m",
+    "weight": "30.0 kg",
+    "weaknesses": [
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Sandshrew",
+    "entry_number": "027",
+    "color": "AMARILLO",
+    "type": [
+      "TIERRA"
+    ],
+    "description": "Entierra sus garras en la tierra para ocultarse. Se enrolla en una bola para protegerse de los enemigos.",
+    "image": "",
+    "height": "0.6 m",
+    "weight": "12.0 kg",
+    "weaknesses": [
+      "AGUA",
+      "HIELO",
+      "PLANTA"
+    ]
+  },
+  {
+    "name": "Nidoran♂",
+    "entry_number": "028",
+    "color": "AZUL",
+    "type": [
+      "VENENO"
+    ],
+    "description": "Se preocupa mucho por la hembra de Nidoran. Si alguna vez percibe peligro, atacará furiosamente con su aguijón venenoso.",
+    "image": "",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "weaknesses": [
+      "PSÍQUICO",
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Nidoran♀",
+    "entry_number": "029",
+    "color": "AZUL",
+    "type": [
+      "VENENO"
+    ],
+    "description": "Aunque no tiene cuernos venenosos, su aguijón es muy venenoso. Se cree que la falta de cuernos es una característica de género.",
+    "image": "",
+    "height": "0.4 m",
+    "weight": "7.0 kg",
+    "weaknesses": [
+      "PSÍQUICO",
+      "TIERRA"
+    ]
+  },
+  {
+    "name": "Nidorina",
+    "entry_number": "030",
+    "color": "AZUL",
+    "type": [
+      "VENENO"
+    ],
+    "description": "El veneno en su aguijón es más fuerte que el de un Nidoran♂. Suele vivir en grupos en zonas montañosas y boscosas.",
+    "image": "",
+    "height": "0.8 m",
+    "weight": "20.0 kg",
+    "weaknesses": [
+      "PSÍQUICO",
+      "TIERRA"
+    ]
+  }
+]
